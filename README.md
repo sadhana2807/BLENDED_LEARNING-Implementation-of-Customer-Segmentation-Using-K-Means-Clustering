@@ -22,8 +22,8 @@ To implement customer segmentation using K-Means clustering on the Mall Customer
 ```
 /*
 Program to implement customer segmentation using K-Means clustering on the Mall Customers dataset.
-Developed by: Lenasri R
-RegisterNumber: 212225040199
+Developed by: Sadhana K
+RegisterNumber: 212225240128
 */
 import pandas as pd
 import matplotlib.pyplot as plt
